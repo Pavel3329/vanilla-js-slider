@@ -96,5 +96,3 @@ function createRounds() {
 }
 
 createRounds();
-
-// Update slider images and slide width
